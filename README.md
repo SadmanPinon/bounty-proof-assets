@@ -11,3 +11,4 @@ private data.
 - `demos/zio-9101-demo.mp4` - demo proof for `zio/zio#10953`
 - `demos/dn-277-siren-demo.mp4` - demo proof for `1712n/dn-institute#1136`
 - `demos/bitcoin-1216-demo.mp4` - demo proof for `bitcoin-dot-org/developer.bitcoin.org#335`
+- `demos/prisma-7771-demo.mp4` - demo proof for `prisma/prisma#29573`
