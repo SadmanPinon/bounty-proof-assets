@@ -9,3 +9,4 @@ private data.
 ## Assets
 
 - `demos/zio-9101-demo.mp4` - demo proof for `zio/zio#10953`
+- `demos/dn-277-siren-demo.mp4` - demo proof for `1712n/dn-institute#1136`
